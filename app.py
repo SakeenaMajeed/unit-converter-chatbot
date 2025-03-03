@@ -183,11 +183,7 @@ with tab1:
 with tab2:
     st.title("⚡ Advanced Unit Converter")
     conversion_factors = {
-        # "Length": {"Meter": 1.0, "Kilometer": 0.001, "Centimeter": 100.0, "Inch": 39.3701},
-        # "Mass": {"Kilogram": 1.0, "Gram": 1000.0, "Pound": 2.20462},
-        # "Temperature": {"Celsius": 1.0, "Fahrenheit": 33.8, "Kelvin": 274.15},
-        
-        "Plane Angle": {
+     "Plane Angle": {
         "Degree": 1.0,
         "Arcsecond": 1 / 3600,
         "Gradian": 0.9,
